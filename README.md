@@ -53,6 +53,14 @@ https://github.com/sarthak19patel/TIC-TAC-TOE
 
 ---
 
+## 🧠 Problem Solving & DSA
+I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving skills.
+
+🔗 **LeetCode Profile:**  
+https://leetcode.com/u/reBvSAThb8/
+
+---
+
 ## 📈 Currently Focusing On
 - Data Structures & Algorithms  
 - Java Development  
@@ -64,6 +72,7 @@ https://github.com/sarthak19patel/TIC-TAC-TOE
 ## 📫 Connect With Me
 - 🌐 **GitHub:** https://github.com/sarthak19patel  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sarthak-p-4b94952a8/  
+- 🧠 **LeetCode:** https://leetcode.com/u/reBvSAThb8/
 
 ---
 
