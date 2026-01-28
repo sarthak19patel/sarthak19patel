@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarthak Patel  
 
-<!--
-**sarthak19patel/sarthak19patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Aspiring Software Developer  
+📍 India  
 
-Here are some ideas to get you started:
+🚀 I’m a motivated Computer Science student who enjoys building real-world projects, learning modern technologies, and strengthening problem-solving skills through **Data Structures & Algorithms**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- 🎓 B.Tech in Computer Science & Engineering (2nd Year)
+- 💡 Strong interest in **Web Development** & **DSA**
+- 🌱 Currently learning **Java** and **Frontend Development**
+- 🧠 Improving logic & problem-solving through consistent practice
+- 🔭 Focused on building clean, beginner-to-intermediate level projects
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Java  
+- C  
+- JavaScript  
+
+### 🌐 Web Development
+- HTML5  
+- CSS3  
+- JavaScript (DOM Manipulation)
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- Visual Studio Code  
+- Git Bash  
+
+---
+
+## 🚀 Featured Project
+
+### 🎮 Tic Tac Toe Game
+A simple and interactive two-player Tic Tac Toe game developed using **HTML, CSS, and JavaScript**.
+
+🔹 Features:
+- Interactive UI  
+- Winner & draw detection  
+- Restart functionality  
+
+🔗 **Live Demo:**  
+https://sarthak19patel.github.io/TIC-TAC-TOE/
+
+💻 **Source Code:**  
+https://github.com/sarthak19patel/TIC-TAC-TOE  
+
+---
+
+## 📈 Currently Focusing On
+- Data Structures & Algorithms  
+- Java Development  
+- Frontend Projects  
+- Git & Open Source Contribution  
+
+---
+
+## 📫 Connect With Me
+- 🌐 **GitHub:** https://github.com/sarthak19patel  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sarthak-p-4b94952a8/  
+
+---
+
+## ⚡ Fun Fact
+I believe consistency beats talent — one commit at a time 🚀
