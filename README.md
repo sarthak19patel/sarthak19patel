@@ -37,6 +37,20 @@
 
 ## 🚀 Featured Project
 
+### Campus Care 
+CampusCare is a student-centric platform designed to create a supportive, accessible, and connected college environment. The platform aims to help students overcome academic, career, mental health, and campus-related challenges through a single unified portal.
+
+Many students face difficulties such as career confusion, placement anxiety, stress, lack of mentorship, campus-related issues, and challenges adapting to college life. CampusCare provides a centralized solution where students can seek guidance, connect with mentors, raise concerns, and access essential resources.
+
+Live Demo: https://campus-care-sigma-pearl.vercel.app
+
+GitHub: https://github.com/sarthak19patel/CampusCare
+
+
+###
+
+
+
 ### 🎮 Tic Tac Toe Game
 A simple and interactive two-player Tic Tac Toe game developed using **HTML, CSS, and JavaScript**.
 
