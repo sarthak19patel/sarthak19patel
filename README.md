@@ -42,6 +42,18 @@ CampusCare is a student-centric platform designed to create a supportive, access
 
 Many students face difficulties such as career confusion, placement anxiety, stress, lack of mentorship, campus-related issues, and challenges adapting to college life. CampusCare provides a centralized solution where students can seek guidance, connect with mentors, raise concerns, and access essential resources.
 
+🌟 Project Vision
+The vision of CampusCare is to ensure that every student has access to:
+
+Career Guidance
+Mental Health Support
+Mentorship Opportunities
+Complaint & Grievance Management
+Fresher Assistance
+Academic Resources
+Student Community Support
+The platform promotes a healthier, more informed, and student-friendly campus experience.
+
 Live Demo: https://campus-care-sigma-pearl.vercel.app
 
 GitHub: https://github.com/sarthak19patel/CampusCare
